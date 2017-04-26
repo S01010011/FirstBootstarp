@@ -1,0 +1,47 @@
+body{padding-top:50px;}
+
+.carousel{
+	margin-bottom:60px;
+}
+
+.carousel,
+.carousel .item{
+	height:400px;
+	background-color:#000; 
+}
+
+.carousel img{
+	width:100%;
+}
+
+.carousel .carousel-caption{
+	margin-top:15px;
+	margin-bottom:15px;
+}
+
+.my-introduction img{
+	width:121px;
+	height:121px;
+}
+
+.my-introduction [class *= col-]{
+	text-align: center;
+}
+
+.my-tabs{
+	padding-top:30px;
+}
+
+.my-tabs h2{
+	font-size:40px;
+	color:#2a6496;
+	margin-top:120px;
+}
+
+.my-tabs .text-muted{
+	font-size:18px;
+}
+
+.my-tabs .lead{
+	text-indent:2em;
+}
